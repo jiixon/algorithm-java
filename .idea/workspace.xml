@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4ab599-eaf9-48c2-bcb4-c8d51a868cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/자료구조/자료의합구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/나머지구하기/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/두수의합/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/배열원소의길이/Solution.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조/평균구하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.build",
@@ -85,7 +80,7 @@
       <workItem from="1694865663375" duration="1574000" />
       <workItem from="1694867300190" duration="363000" />
       <workItem from="1694883972639" duration="723000" />
-      <workItem from="1704356768699" duration="3551000" />
+      <workItem from="1704356768699" duration="5868000" />
     </task>
     <servers />
   </component>
