@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4ab599-eaf9-48c2-bcb4-c8d51a868cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/그리디/일이될때까지.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/구현/상하좌우.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +49,13 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="숫자카드게임" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.숫자카드게임" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="algorithm-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="자료구조.배열과리스트.*" />
-          <option name="ENABLED" value="true" />
+          <option name="ENABLED" value="false" />
         </pattern>
       </extension>
       <method v="2">
@@ -64,7 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.숫자카드게임" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +85,9 @@
       <workItem from="1705404914565" duration="2946000" />
       <workItem from="1705408170181" duration="6692000" />
       <workItem from="1706198443026" duration="4802000" />
-      <workItem from="1706374118603" duration="2400000" />
+      <workItem from="1706374118603" duration="4041000" />
+      <workItem from="1706522465606" duration="5149000" />
+      <workItem from="1706803895109" duration="8867000" />
     </task>
     <servers />
   </component>
