@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4ab599-eaf9-48c2-bcb4-c8d51a868cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/미로탈출.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/BOJ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFSBFS/bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/bfs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <workItem from="1706374118603" duration="4041000" />
       <workItem from="1706522465606" duration="5149000" />
       <workItem from="1706803895109" duration="32464000" />
-      <workItem from="1710154823964" duration="9469000" />
+      <workItem from="1710154823964" duration="26792000" />
     </task>
     <servers />
   </component>
