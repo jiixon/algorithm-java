@@ -47,5 +47,6 @@ public class 에라토스테네스의체 {
             System.out.println(sum);
             System.out.println(primes.get(0));
         }
+        System.out.println("test");
     }
 }

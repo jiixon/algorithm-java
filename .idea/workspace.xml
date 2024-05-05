@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4ab599-eaf9-48c2-bcb4-c8d51a868cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/정렬/selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/정렬/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/정렬/sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFSBFS/bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/bfs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFSBFS/dfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/dfs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/구현/에라토스테네스의체.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/에라토스테네스의체.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/정렬/selection.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +106,14 @@
       <workItem from="1710837533299" duration="28109000" />
       <workItem from="1711026654100" duration="9500000" />
       <workItem from="1711370631911" duration="337000" />
-      <workItem from="1711435505552" duration="619000" />
+      <workItem from="1711435505552" duration="5035000" />
+      <workItem from="1711519866081" duration="9523000" />
+      <workItem from="1711603951855" duration="28155000" />
+      <workItem from="1712227699669" duration="917000" />
+      <workItem from="1712917959212" duration="5420000" />
+      <workItem from="1713196856873" duration="13831000" />
+      <workItem from="1713684594033" duration="10591000" />
+      <workItem from="1714212605046" duration="22975000" />
     </task>
     <servers />
   </component>

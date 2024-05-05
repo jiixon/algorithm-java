@@ -1,48 +1,70 @@
-
-import java.awt.print.Pageable;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
+    public static void merge(int[] arr, int start, int middle, int end, int[] tmp) {
+        int left = start;
+        int right = middle + 1;
+        int index = start;
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-        int t = Integer.parseInt(bf.readLine());
-        ArrayList<String> inputs = new ArrayList<>();
-        while (t != 0) {
-            if (t == 0) break;
-            String input = bf.readLine();
-            inputs.add(input);
-            t--;
-        }
-        System.out.println(inputs);
-
-        int result = 0;
-        ArrayList<Character> check = new ArrayList<>();
-        boolean c = false;
-        for (int i = 0; i < inputs.size(); i++) {
-
-            for (int j = 0; j < inputs.get(i).length(); j++) {
-
-                for(int k = j+1; k<inputs.get(i).length(); k++){
-                    if(inputs.get(i).charAt(j)==inputs.get(i).charAt(k)){
-
-                    }
-
-
-                }
-
+        while (left <= middle && right <= end) {
+            if (arr[left] <= arr[right]) {
+                tmp[index++] = arr[left++];
+            } else {
+                tmp[index++] = arr[right++];
             }
-            System.out.println(check);
-            if(c) result++;
-            c = false;
-            check.clear();
         }
-        System.out.println(result);
 
+        while (left <= middle) {
+            tmp[index++] = arr[left++];
+        }
 
+        while (right <= end) {
+            tmp[index++] = arr[right++];
+        }
+
+        for (int i = start; i <= end; i++) {
+            arr[i] = tmp[i];
+        }
+    }
+
+    public static void mergeSort(int[] arr, int start, int end, int[] tmp) {
+        if (start < end) {
+            int middle = (start + end) / 2;
+            mergeSort(arr, start, middle, tmp);
+            mergeSort(arr, middle + 1, end, tmp);
+            merge(arr, start, middle, end, tmp);
+        }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int c = sc.nextInt();
+        int[] cntArr = new int[c + 1];
+        int[] arr = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            int num = sc.nextInt();
+            cntArr[num]++;
+            arr[i] = num;
+        }
+
+        int maxFreq = 0;
+        for (int freq : cntArr) {
+            maxFreq = Math.max(maxFreq, freq);
+        }
+
+        int[] tmp = new int[n];
+        mergeSort(arr, 0, n - 1, tmp);
+
+        for (int i = maxFreq; i >= 1; i--) {
+            for (int j = 0; j < cntArr.length; j++) {
+                if (cntArr[j] == i) {
+                    for (int k = 0; k < i; k++) {
+                        System.out.print(j + " ");
+                    }
+                }
+            }
+        }
     }
 }
