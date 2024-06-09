@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4ab599-eaf9-48c2-bcb4-c8d51a868cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/정렬/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/정렬/sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFSBFS/bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/bfs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFSBFS/dfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/dfs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/구현/에라토스테네스의체.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/구현/에라토스테네스의체.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/정렬/selection.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +36,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/injiwon/Desktop/algorithm-java/algorithm-java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/injiwon/Desktop/algorithm-java/algorithm-java/src&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,6 +54,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -113,7 +113,10 @@
       <workItem from="1712917959212" duration="5420000" />
       <workItem from="1713196856873" duration="13831000" />
       <workItem from="1713684594033" duration="10591000" />
-      <workItem from="1714212605046" duration="22975000" />
+      <workItem from="1714212605046" duration="32173000" />
+      <workItem from="1715017055205" duration="17308000" />
+      <workItem from="1717654413826" duration="1027000" />
+      <workItem from="1717940600740" duration="425000" />
     </task>
     <servers />
   </component>
