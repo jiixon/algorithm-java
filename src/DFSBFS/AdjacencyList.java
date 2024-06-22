@@ -19,6 +19,17 @@ class Node {
     }
 }
 
+/*
+정점, 간선의 개수 이후
+(노드, 노드, 비용)이 주어진 경우
+5 6
+5 1 1
+1 2 2
+1 3 3
+2 3 4
+2 4 5
+3 4 6
+ */
 public class AdjacencyList {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
