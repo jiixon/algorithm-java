@@ -57,8 +57,13 @@ public class AdjacencyList {
             // graph.get(b).add(new Node(a, cost));
         }
 
-        // 인접 행렬 출력
-        System.out.println(graph);
-        sc.close();
+        //인접행렬 출력
+        for(int i = 1; i<=V; i++){
+            System.out.print("Node " + i + ": ");
+            for(Node node: graph.get(i)){
+                System.out.print(node.toString());
+            }
+            System.out.println();
+        }
     }
 }
