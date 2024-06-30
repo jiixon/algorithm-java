@@ -30,6 +30,5 @@ public class DP {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
         memo = new long[n + 1];
-
     }
 }

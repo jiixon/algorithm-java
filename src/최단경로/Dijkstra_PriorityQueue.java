@@ -82,8 +82,6 @@ public class Dijkstra_PriorityQueue {
 //                    q.offer(new Node(nxtNode.idx, dist[nxtNode.idx]));
 //                }
 //            }
-
-
         }
 
         // 결과 출력
