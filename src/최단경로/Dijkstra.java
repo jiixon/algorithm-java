@@ -50,7 +50,6 @@ public class Dijkstra {
 
             graph.get(a).add(new Node(b, cost));
         }
-
         // 2. 방문 여부를 확인할 boolean 배열, start 노드부터 end 노드 까지의 최소 거리를 저장할 배열을 만든다.
         boolean[] visited = new boolean[V + 1];
         int[] dist = new int[V + 1];
@@ -103,13 +102,6 @@ public class Dijkstra {
             }
         }
         sc.close();
-        /**
-         * 0
-         * 2
-         * 3
-         * 7
-         * INF
-         */
     }
 
 }
