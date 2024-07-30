@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4ab599-eaf9-48c2-bcb4-c8d51a868cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/이진탐색/부품찾기_계수정렬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/이진탐색/부품찾기_이진탐색.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/이진탐색/부품찾기_집합자료형.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/이분탐색/SequentialSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/이진탐색/SequentialSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/이분탐색/binarySearch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/이진탐색/binarySearch1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/이분탐색/binarySearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/이진탐색/binarySearch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/이진탐색/떡볶이떡_만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/이진탐색/떡볶이떡_만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +121,7 @@
       <workItem from="1721144833260" duration="608000" />
       <workItem from="1721221139739" duration="29000" />
       <workItem from="1721300053638" duration="2000" />
-      <workItem from="1722177799878" duration="6511000" />
+      <workItem from="1722177799878" duration="12188000" />
     </task>
     <servers />
   </component>
