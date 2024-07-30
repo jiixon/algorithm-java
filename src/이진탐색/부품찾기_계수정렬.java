@@ -1,7 +1,6 @@
 package 이진탐색;
 
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class 부품찾기_계수정렬 {
