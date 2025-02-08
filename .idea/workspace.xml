@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4ab599-eaf9-48c2-bcb4-c8d51a868cc9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/이진탐색/떡볶이떡_만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/이진탐색/떡볶이떡_만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/게임맵_최단거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/타겟_넘버.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/N으로_표현.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/도둑질.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +26,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jiixon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jiixon/algorithm-java.git&quot;,
+    &quot;accountId&quot;: &quot;747c15b9-f405-454d-b11a-5d3a7d7ac453&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2VTfyNfwo4InLXXubYLiXK2rMko" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +55,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/injiwon/Desktop/algorithm-java/algorithm-java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -77,6 +98,14 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -121,7 +150,13 @@
       <workItem from="1721144833260" duration="608000" />
       <workItem from="1721221139739" duration="29000" />
       <workItem from="1721300053638" duration="2000" />
-      <workItem from="1722177799878" duration="12188000" />
+      <workItem from="1722177799878" duration="14300000" />
+      <workItem from="1722615969468" duration="1832000" />
+      <workItem from="1736262212770" duration="2520000" />
+      <workItem from="1737464820343" duration="1032000" />
+      <workItem from="1737465999613" duration="13000" />
+      <workItem from="1738495819702" duration="3966000" />
+      <workItem from="1739014049427" duration="1503000" />
     </task>
     <servers />
   </component>
