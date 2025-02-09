@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4ab599-eaf9-48c2-bcb4-c8d51a868cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/게임맵_최단거리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/타겟_넘버.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/N으로_표현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/도둑질.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/네트워크.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/정수_삼각형.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +154,7 @@
       <workItem from="1737464820343" duration="1032000" />
       <workItem from="1737465999613" duration="13000" />
       <workItem from="1738495819702" duration="3966000" />
-      <workItem from="1739014049427" duration="1503000" />
+      <workItem from="1739014049427" duration="6077000" />
     </task>
     <servers />
   </component>
